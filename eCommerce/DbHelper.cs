@@ -6,7 +6,7 @@ using MySql.Data.MySqlClient;
 public class DbHelper
 {
     private const string connectionString =
-        "server=localhost;user=root;database=ecommercedb;port=3307;password=jeddy123";
+        "server=localhost;user=root;database=ecommercedb;port=3307;password=jeddy1234";
 
     public DbHelper() { }
 
